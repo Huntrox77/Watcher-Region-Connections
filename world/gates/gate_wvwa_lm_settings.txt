@@ -1,0 +1,8 @@
+BkgDroneVolume: 0
+Palette: 35
+EffectColorA: 0
+EffectColorB: 6
+Effects: WaterDepth-0.05434782-412-356, WaterFluxFrequency-1-740-447, WaterFluxMaxLevel-0.3369565-721-398, WaterFluxMinLevel-0.3369565-1015-375, WaterFluxMaxDelay-0.5-1009-506, WaterFluxMinDelay-1-649-557, Sentient Rot Infection-0-459-432, Brightness-0-364-8, Bloom-0-160-113, SunBlock-0-299-172, 
+PlacedObjects: ExitSymbolShelter><230.9573><109.0546><, CustomDecal><84.23315><146.1993><0~109~116~128~121~5~-264~80.00002~0.3586957~0.423913~0~WhiteTag6~0.75~0~0.6630435~0~0~0.6304348~0.4891304~0.5108696, NoSpearStickZone><474.6979><248.5291><-246~70, Vine><146.1256><139.4066><82~236, ReliableSpear><760.0817><169.4326><, 
+AmbientSounds: SPOT><AM_IND-Utility02.ogg><63.91522><499.8627><0.5><1><-9.084778><263.8627><-159.3553><-77.35535><0><0.2304349, SPOT><AM_IND-Utility02.ogg><244.6418><500.5817><0.5><1><971.6418><236.5817><-120.3553><-132.3553><0><0.3608697, SPOT><AM_IND-DeepHum.ogg><772.4013><304.8808><0.326087><1><484.4013><24.88083><-126.3553><-33.35534><0><0.2956523, 
+FadePalette: 11, 0.5
