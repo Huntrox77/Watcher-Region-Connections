@@ -1,0 +1,5 @@
+Palette: 464
+EffectColorA: 13
+EffectColorB: 22
+PlacedObjects: NoSpearStickZone><496.8538><211.171><-2~196, TerrainHandle><829.3431><102.4271><-40~0~48~4~20, TerrainHandle><-41.94897><209.7305><-79~12~60~18~20, TerrainHandle><146.1212><180.6592><-40~0~40~0~20, TerrainHandle><673.8628><109.3546><-40~0~40~0~20, TerrainHandle><405.1828><154.3313><-112~-19~64~4~16, TerrainHandle><980.8004><150.2574><-50~-19~41~22~20, TerrainHandle><-201.6612><193.6183><-40~0~2~14~20, TerrainHandle><1154.185><213.8094><-77~25~40~0~20, LightSource><171.45><172.2457><1~Environment~179~71~50~86.60254~0~0~None~0~0, LightSource><830.3802><143.59><1~Environment~-146~8~50~86.60254~1~0~None~0~0, 
+FadePalette: 336, 0.5

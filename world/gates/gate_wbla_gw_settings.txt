@@ -1,0 +1,4 @@
+Palette: 98
+EffectColorB: 18
+PlacedObjects: NoSpearStickZone><496.8538><211.171><-2~196, MudPit><-17.12738><115.9042><314~40~313, 
+FadePalette: 9, 0.5

@@ -1,0 +1,9 @@
+Palette: 98
+EffectColorB: 18
+TerrainLight: 0.5
+TerrainWaves: 0
+TerrainDepth: 0.5978262
+TerrainPalette: torrid_desert
+Effects: Darkness-0-20-20, 
+PlacedObjects: NoSpearStickZone><481.8538><220.171><-2~196, MudPit><151.7776><551.0813><670~114~38, LightSource><142.2512><184.8><1~Environment~136~187~70~172.6025~1~0~None~0~0, InsectGroup><151.6474><196.3283><0~100~49~79~Moth~0.5, LightBeam><756.3845><28.89807><-2~442~127~443~132~1~31~-130~0.4~0~0~1~None~0~0, 
+FadePalette: 334, 0.7391304
