@@ -1,0 +1,4 @@
+Template: gw_settingstemplate_inside
+EffectColorB: 0
+Effects: LethalWater-1-178-55, WaterViscosity-0.6195652-179-171, Darkness-0.2065217-20-20, HeatWave-0.6195652-156-111, 
+FadePalette: 8, 0.25, 0.1086956, 0.25

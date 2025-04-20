@@ -1,0 +1,7 @@
+Template: gw_settingstemplate_inside
+Palette: 11
+EffectColorA: 8
+EffectColorB: 12
+Effects: LethalWater-1-20-20, WaterViscosity-0.6195652-58-93, Darkness-0.2608696-344-105, SilenceWater-1-315-21, HeatWave-0.6195652-278-186, 
+PlacedObjects: LightSource><1348.165><57.38678><0.6086956~EffectColor1~0~100~50~86.60254~0~0~None~0~0, LightSource><1652.626><67.59305><0.6086956~EffectColor1~0~100~50~86.60254~0~0~None~0~0, SteamPipe><1457.557><64.55838><0~100, SteamPipe><1676.419><57.18298><0~100, SteamPipe><1299.948><75.22543><0~100, SteamPipe><1731.933><68.41943><0~100, SteamPipe><1542.922><29.39786><0~100, 
+FadePalette: 34, 0.6956522, 0.5, 0.7717391

@@ -1,0 +1,5 @@
+Palette: 5
+EffectColorB: 2
+Effects: WaterDepth-0.326087-229-169, 
+PlacedObjects: LightBeam><65.5705><-141.0884><85~772~142~774~142~-1~298~404~0.2065217~0.3043478~0~1~None~0~0, DeathFallFocus><127.8046><-94.80757><, DataPearl><113.0504><498.2379><0~0~0~38~SB_filtration~0, 
+FadePalette: 334, 0.5

@@ -1,7 +1,7 @@
 {
-	"id": "huntress.watcherconnections",
+	"id": "watcherconnections",
 	"name": "Watcher Region Connections",
-	"version": "1.0.0",
+	"version": "1.2.9",
 	"hide_version": false,
 	"authors": "Huntress",
 	"description": "A mod that adds connections between The Watcher DLC, More Slugcats DLC and the Base game regions! <LINE> Have fun <3",
