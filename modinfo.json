@@ -1,12 +1,12 @@
 {
 	"id": "watcherconnections",
 	"name": "Watcher Region Connections",
-	"version": "1.2.9",
+	"version": "1.3.1",
 	"hide_version": false,
 	"authors": "Huntress",
 	"description": "A mod that adds connections between The Watcher DLC, More Slugcats DLC and the Base game regions! <LINE> Have fun <3",
-	"requirements": [ "watcher", "moreslugcats", "crs" ],
-	"requirements_names": [ "The Watcher", "More Slugcats Expansion", "Custom Regions Support" ],
+	"requirements": [ "watcher", "moreslugcats", "np.aetherforall" ],
+	"requirements_names": [ "The Watcher", "More Slugcats Expansion", "Aether Ridge For All" ],
 	"tags": [ "Regions", "Watcher", "Downpour" ],
 	"checksum_override_version": true
 }

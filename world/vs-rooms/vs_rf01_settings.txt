@@ -1,0 +1,4 @@
+Palette: 208
+EffectColorA: 10
+EffectColorB: 10
+FadePalette: 21, 0.7826087
